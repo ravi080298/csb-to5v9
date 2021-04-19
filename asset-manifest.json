@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravi080298.github.io/csb-to5v9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ravi080298.github.io/csb-to5v9/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://ravi080298.github.io/csb-to5v9/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://ravi080298.github.io/csb-to5v9/static/js/runtime-main.508b4e3c.js",
+    "runtime-main.js.map": "https://ravi080298.github.io/csb-to5v9/static/js/runtime-main.508b4e3c.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://ravi080298.github.io/csb-to5v9/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://ravi080298.github.io/csb-to5v9/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://ravi080298.github.io/csb-to5v9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ravi080298.github.io/csb-to5v9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://ravi080298.github.io/csb-to5v9/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508b4e3c.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
